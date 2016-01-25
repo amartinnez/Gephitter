@@ -10,9 +10,9 @@ import java.util.ArrayList;
 public class Node {
 
 	/**
-	 * nodoID			Long identifier of twitter user
-	 * Name				ScreenName of twitter user
-	 * In_Links			Identifiers of In neighbors of the node 
+	 * nodoID		Long identifier of twitter user
+	 * Name			ScreenName of twitter user
+	 * In_Links		Identifiers of In neighbors of the node 
 	 * Out_Links		Identifiers of Out neighbors of the node
 	 * Index_In_Links	Position of the edge in the list of edges of the graph
 	 * Index_Out_Links	Position of the edge in the list of edges of the graph
