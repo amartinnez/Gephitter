@@ -32,8 +32,8 @@ public class Rest_API {
 
 	/**
 	 * @param cb	Needs a valid configuration builder to get an instance of the twitter object. This cb is associated to OAuth credentials.
-	 * 				The method credentials in class Methods.java configure this cb from a file that must contain the 
-	 * 				ConsumerKey, ConsumerSecret, AccesToken and AccesTokenSecet of your registered app in https://apps.twitter.com/			
+	 * 		The method credentials in class Methods.java configure this cb from a file that must contain the 
+	 * 		ConsumerKey, ConsumerSecret, AccesToken and AccesTokenSecet of your registered app in https://apps.twitter.com/			
 	 */
 	public Rest_API(ConfigurationBuilder cb)
 	{
