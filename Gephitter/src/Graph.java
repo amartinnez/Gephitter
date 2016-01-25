@@ -28,7 +28,7 @@ public class Graph {
 		this.Id_Nodes_List = new ArrayList<Long>();
 		
 		this.nNodes = 0;
-		this.nEdges = 0;
+		this.nEdges = 0; 
 	}
 	
 	/**
