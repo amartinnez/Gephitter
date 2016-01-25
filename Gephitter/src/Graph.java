@@ -12,8 +12,8 @@ public class Graph {
 	 * Nodes_List		List of nodes in the graoh
 	 * Edges_List		List of edges in the graph
 	 * Id_Nodes_List	List of indentifiers of the nodes.
-	 * nNodes			Number of nodes
-	 * nEdges			Number of edges
+	 * nNodes		Number of nodes
+	 * nEdges		Number of edges
 	 */
 	private ArrayList<Node> Nodes_List;
 	private ArrayList<Edge> Edges_List;
