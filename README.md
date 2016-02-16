@@ -49,5 +49,5 @@
  	     	    USER          Twitter user ScreenName. Generate a GEXF file with the filtered net of this user
  
  
- If you want to quit the program without losing collected tweets, press: q and Enter Key.
+ If you want to quit the program without losing collected tweets, please press "q and Enter Key".
 
